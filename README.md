@@ -1,4 +1,4 @@
-Layoffs Dataset
+**Project Title: Data cleaning in SQL**
 
 The dataset consists of Tech layoff from COVID 2019 that is 11th March to April 2024.
 https://www.kaggle.com/datasets/swaptr/layoffs-2022
